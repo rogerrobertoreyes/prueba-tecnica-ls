@@ -1,0 +1,6 @@
+@back_dynamic_form_HostAddress = http://localhost:5138
+
+GET {{back_dynamic_form_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
