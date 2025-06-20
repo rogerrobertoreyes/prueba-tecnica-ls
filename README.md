@@ -8,7 +8,7 @@ Se debe ejecutar el script: ScriptEntidades.sql
 Este proyecto esta desarrollado en vs 2022 con .net core y entity-framework
 
 Esta configurado para ejecutarse en el puerto:7236 
-https://localhost:7236/swagger/index.html
+`https://localhost:7236/swagger/index.html`
 
 En el caso de que se quiera usar otro puerto, se debe modificar el archivo: launchSettings.json
 <!--
