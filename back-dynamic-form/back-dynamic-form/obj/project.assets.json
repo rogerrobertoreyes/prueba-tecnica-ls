@@ -3239,11 +3239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roger Reyes\\Downloads\\prueba-tecnica-reybanpac\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.csproj",
+      "projectUniqueName": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.csproj",
       "projectName": "back-dynamic-form",
-      "projectPath": "C:\\Users\\Roger Reyes\\Downloads\\prueba-tecnica-reybanpac\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.csproj",
+      "projectPath": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.csproj",
       "packagesPath": "C:\\Users\\Roger Reyes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roger Reyes\\Downloads\\prueba-tecnica-reybanpac\\back-dynamic-form\\back-dynamic-form\\obj\\",
+      "outputPath": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

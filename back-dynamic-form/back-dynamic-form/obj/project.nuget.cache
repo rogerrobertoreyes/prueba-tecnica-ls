@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qvRGxfXsaGs=",
+  "dgSpecHash": "FxE4DcSBCPs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roger Reyes\\Downloads\\prueba-tecnica-reybanpac\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.csproj",
+  "projectFilePath": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roger Reyes\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Roger Reyes\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
