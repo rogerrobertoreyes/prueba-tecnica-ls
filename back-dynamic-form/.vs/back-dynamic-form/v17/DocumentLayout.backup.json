@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\back-dynamic-form.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\controllers\\formularioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\controllers\\formularioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\models\\campo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\models\\campo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\models\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\models\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\data\\formdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\data\\formdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|c:\\users\\roger reyes\\downloads\\roger\\pruebas_tecnicas\\logicstudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC4AB809-8E6C-45C7-99E0-186C5102D1F4}|back-dynamic-form\\back-dynamic-form.csproj|solutionrelative:back-dynamic-form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Program.cs",
-              "RelativeDocumentMoniker": "back-dynamic-form\\Program.cs",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Program.cs",
-              "RelativeToolTip": "back-dynamic-form\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:24:25.664Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Campo.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Models\\Campo.cs",
-              "RelativeDocumentMoniker": "back-dynamic-form\\Models\\Campo.cs",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Models\\Campo.cs",
-              "RelativeToolTip": "back-dynamic-form\\Models\\Campo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:22:26.786Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "back-dynamic-form\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.Development.json",
-              "RelativeToolTip": "back-dynamic-form\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-20T18:41:30.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "back-dynamic-form\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Properties\\launchSettings.json",
-              "RelativeToolTip": "back-dynamic-form\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-20T18:17:48.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "back-dynamic-form\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Data\\SeedData.cs",
-              "RelativeToolTip": "back-dynamic-form\\Data\\SeedData.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA2wBMAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:22:57.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Formulario.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Models\\Formulario.cs",
-              "RelativeDocumentMoniker": "back-dynamic-form\\Models\\Formulario.cs",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Models\\Formulario.cs",
-              "RelativeToolTip": "back-dynamic-form\\Models\\Formulario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:22:27.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.json",
               "RelativeDocumentMoniker": "back-dynamic-form\\appsettings.json",
               "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.json",
               "RelativeToolTip": "back-dynamic-form\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-15T19:25:01.751Z",
+              "WhenOpened": "2025-06-20T18:43:38.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Data\\FormDbContext.cs",
-              "RelativeDocumentMoniker": "back-dynamic-form\\Data\\FormDbContext.cs",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Data\\FormDbContext.cs",
-              "RelativeToolTip": "back-dynamic-form\\Data\\FormDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAywBMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:23:04.134Z"
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "back-dynamic-form\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\appsettings.Development.json",
+              "RelativeToolTip": "back-dynamic-form\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T18:43:37.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormulariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Controllers\\FormulariosController.cs",
-              "RelativeDocumentMoniker": "back-dynamic-form\\Controllers\\FormulariosController.cs",
-              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Controllers\\FormulariosController.cs",
-              "RelativeToolTip": "back-dynamic-form\\Controllers\\FormulariosController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAcwBsAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "back-dynamic-form.http",
+              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.http",
+              "RelativeDocumentMoniker": "back-dynamic-form\\back-dynamic-form.http",
+              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\back-dynamic-form.http",
+              "RelativeToolTip": "back-dynamic-form\\back-dynamic-form.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-20T18:43:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Program.cs",
+              "RelativeDocumentMoniker": "back-dynamic-form\\Program.cs",
+              "ToolTip": "C:\\Users\\Roger Reyes\\Downloads\\Roger\\Pruebas_Tecnicas\\LogicStudio\\prueba-tecnica\\prueba-tecnica-ls\\back-dynamic-form\\back-dynamic-form\\Program.cs",
+              "RelativeToolTip": "back-dynamic-form\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T19:30:59.053Z"
+              "WhenOpened": "2025-06-20T18:43:34.521Z",
+              "EditorCaption": ""
             }
           ]
         }

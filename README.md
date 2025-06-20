@@ -31,6 +31,7 @@ La cadena de conexion esta congigurada en el archivo: appsettings.json
 }
 -->
 
+La clase: SeedData.cs, realiza la carga inicial de datos de prueba.
 
 # front-end
 Este proyecto se generó con [Angular CLI](https://github.com/angular/angular-cli) versión 19.0.1.
@@ -62,7 +63,6 @@ module.exports = {
   plugins: [],
 }
 -->
-
 
 # development-server
 
